@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+.rvw {
+  right: 7vw;
+}
+.tato {
+  margin-top: 26px;
+}
+.roboto {
+  font-family: "Roboto", sans-serif;
+}
+.tato2 {
+  margin-top: 34px;
+}
+.lngr {
+  background: rgb(236, 236, 236);
+  background: radial-gradient(
+    circle,
+    rgba(236, 236, 236, 1) 0%,
+    rgba(245, 245, 245, 1) 53%
+  );
+}
+.trans-top {
+  transform-origin: top;
+}
+.rvw2 {
+  margin-top: 25px;
+  right: 5vw;
+}
